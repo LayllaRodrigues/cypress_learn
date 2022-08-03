@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LayllaRodrigues/cypress_learn.git"
+  },
+  "author": "Laylla Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LayllaRodrigues/cypress_learn/issues"
+  },
+  "homepage": "https://github.com/LayllaRodrigues/cypress_learn#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
